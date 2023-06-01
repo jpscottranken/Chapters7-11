@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\bin\Debug\MPGGUI01.exe.config
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\bin\Debug\MPGGUI01.exe
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\bin\Debug\MPGGUI01.pdb
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.frmMPG01.resources
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.exe
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGGUI01\obj\Debug\MPGGUI01.pdb

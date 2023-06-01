@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\bin\Debug\MPGConsole01.exe.config
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\bin\Debug\MPGConsole01.exe
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\bin\Debug\MPGConsole01.pdb
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\obj\Debug\MPGConsole01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\obj\Debug\MPGConsole01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\obj\Debug\MPGConsole01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\obj\Debug\MPGConsole01.exe
+C:\Users\jpscott\Desktop\Chapters07-11\Chapters7-11\MPGConsole01\obj\Debug\MPGConsole01.pdb
